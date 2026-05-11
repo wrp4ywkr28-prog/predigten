@@ -32,8 +32,8 @@ It doesn’t matter whether you are a believing Christian developer to participa
 
 ## 📜 Startpunkt: Predigten von P. Christoph Kreitmeir / Starting Point: Sermons by Fr. Christoph Kreitmeir
 
-Die Predigt von P. Christoph Kreitmeir dienen als **Beispiel und Inspiration**.
-You can find his sermons under:
+Die Predigt von P. Christoph Kreitmeir zum Muttertag dient als **Beispiel und Inspiration**.
+You can find his sermons for Mother's Day under:
 → [/christoph-kreitmeir/](./christoph-kreitmeir/2026/05_10_6-Sonntag-nach-Ostern-LjA)
 
 ---
