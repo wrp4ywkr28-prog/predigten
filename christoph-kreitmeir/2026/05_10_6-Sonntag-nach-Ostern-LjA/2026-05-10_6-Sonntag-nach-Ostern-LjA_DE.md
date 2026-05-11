@@ -60,7 +60,7 @@ Den Kontakt zu Jesus zu halten, wird oft als Aufbau einer persönlichen Beziehun
 
 ---
 ## 🔗 Vollständige Predigt
-- [Deutsches Transkript (PDD)](christoph-kreitmeir/2026/05_10_6-Sonntag-nach-Ostern-LjA/6. Sonntag nach Ostern, Lj. A_2026 2.pdf)
+- [Deutsches Original (PDF)](./2026-05-10_6. Sonntag nach Ostern, Lj. A_2026 2.pdf)
 - 🎙️ Podcast: [Predigt auf hearthis.at anhören](https://hearthis.at/christoph-kreitmeir/predigt-am-6-sonntag-im-jkrs-lj-a-2026/)
 
 ---
